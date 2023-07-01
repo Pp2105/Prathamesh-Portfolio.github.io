@@ -304,6 +304,7 @@ form textarea {
   background: var(--main-color);
   color: #fff;
   height:40px;
+  outline: none;
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 1px;
