@@ -303,9 +303,11 @@ form textarea {
   cursor: pointer;
   background: var(--main-color);
   color: #fff;
+  height:60px;
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 1px;
+  border-radius: 6px;
 }
 .contact-button:hover {
   background: var(--hover);
