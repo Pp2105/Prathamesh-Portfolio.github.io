@@ -303,7 +303,7 @@ form textarea {
   cursor: pointer;
   background: var(--main-color);
   color: #fff;
-  height:80px;
+  height:40px;
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 1px;
