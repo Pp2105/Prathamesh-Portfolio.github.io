@@ -92,8 +92,9 @@ header.shadow {
 }
 .home-img img {
   position: relative;
-  width: 100%;
-  align-items: center;
+  width: 400px;
+  height: 300px;
+  align-items: end;
 }
 .home-text span {
   font-size: var(--medium-font);
