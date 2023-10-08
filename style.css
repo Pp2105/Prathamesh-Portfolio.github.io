@@ -363,6 +363,12 @@ form textarea {
     display: initial;
     color: var(--text-color);
   }
+
+  .home-img{
+  width:200px;
+    height:100px;
+    align-items:end;
+  }
   header .navbar {
     position: absolute;
     top: -500px;
