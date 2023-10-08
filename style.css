@@ -444,6 +444,11 @@ form textarea {
   .portfolio-content {
     grid-template-columns: repeat(auto-fit, minmax(200px, auto));
   }
+
+    .about-img {
+    display: flex;
+    justify-content: center;
+  }
   .contact-form form {
     width: auto;
   }
